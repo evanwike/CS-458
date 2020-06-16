@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="VendingMachineAssignment">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jfcunit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jakarta-regexp-1.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

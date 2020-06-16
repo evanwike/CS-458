@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a90a2826-3aed-4f14-a4f9-22e6d7160322" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="176" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bHo19Fz9jMOpKC0GWonx0lTZFO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="correct" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="mutant9" />
+      <recent name="mutant8" />
+      <recent name="mutant7" />
+      <recent name="mutant6" />
+      <recent name="mutant5" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TriangleDecisionTableTest (1)">
+    <configuration name="TriangleDecisionTableTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TriangleSidesAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mutant7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mutant7" />
+      <option name="MAIN_CLASS_NAME" value="mutant7.TriangleDecisionTableTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleDecisionTableTest (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TriangleSidesAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mutant8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mutant8" />
+      <option name="MAIN_CLASS_NAME" value="mutant8.TriangleDecisionTableTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleDecisionTableTest (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TriangleSidesAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mutant9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mutant9" />
+      <option name="MAIN_CLASS_NAME" value="mutant9.TriangleDecisionTableTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleDecisionTableTest (5)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TriangleSidesAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mutant5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mutant5" />
+      <option name="MAIN_CLASS_NAME" value="mutant5.TriangleDecisionTableTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleDecisionTableTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TriangleSidesAssignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mutant6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="mutant6" />
+      <option name="MAIN_CLASS_NAME" value="mutant6.TriangleDecisionTableTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TriangleDecisionTableTest (1)" />
+        <item itemvalue="JUnit.TriangleDecisionTableTest (2)" />
+        <item itemvalue="JUnit.TriangleDecisionTableTest (3)" />
+        <item itemvalue="JUnit.TriangleDecisionTableTest" />
+        <item itemvalue="JUnit.TriangleDecisionTableTest (5)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a90a2826-3aed-4f14-a4f9-22e6d7160322" name="Default Changelist" comment="" />
+      <created>1588298162077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588298162077</updated>
+      <workItem from="1588298166350" duration="811000" />
+      <workItem from="1588386322368" duration="15454000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1238" height="422" key="GridCell.Tab.0.bottom" timestamp="1588731799485">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="555" height="454" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1588730620116" />
+    <state width="1238" height="422" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1588731799485" />
+    <state width="1238" height="422" key="GridCell.Tab.0.center" timestamp="1588731799484">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="555" height="454" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1588730620114" />
+    <state width="1238" height="422" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1588731799484" />
+    <state width="1238" height="422" key="GridCell.Tab.0.left" timestamp="1588731799484">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="555" height="454" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1588730620112" />
+    <state width="1238" height="422" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1588731799484" />
+    <state width="1238" height="422" key="GridCell.Tab.0.right" timestamp="1588731799484">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="555" height="454" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1588730620115" />
+    <state width="1238" height="422" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1588731799484" />
+    <state x="29" y="295" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1588456202233">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="29" y="295" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.800@0.0.1280.800" timestamp="1588456202233" />
+    <state x="125" y="116" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1588456358469">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="125" y="116" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1280.800@0.0.1280.800" timestamp="1588456358469" />
+    <state x="221" y="109" width="837" height="582" key="find.popup" timestamp="1588727853023">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="221" y="109" width="837" height="582" key="find.popup/0.0.1280.800@0.0.1280.800" timestamp="1588727853023" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TriangleSidesAssignment$TriangleMutationTest__1_.ic" NAME="TriangleMutationTest (1) Coverage Results" MODIFIED="1588631300733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>mutant1.*</FILTER>
+    </SUITE>
+  </component>
+</project>

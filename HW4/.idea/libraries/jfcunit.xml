@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="jfcunit">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jfcunit.jar!/" />
+      <root url="file://$PROJECT_DIR$/jakarta-regexp-1.5" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/jakarta-regexp-1.5/src/java" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/jakarta-regexp-1.5" recursive="false" />
+  </library>
+</component>
